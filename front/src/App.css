@@ -1,0 +1,10 @@
+.App {
+   background-color: #f5f5f5;
+   background-image: url(https://i.pinimg.com/originals/4e/a7/fb/4ea7fb833c63a4ea0b0fb696c5919dd7.png);
+   background-repeat: no-repeat, repeat;
+   background-size: cover, auto;
+   background-attachment: fixed, scroll;
+
+}
+
+

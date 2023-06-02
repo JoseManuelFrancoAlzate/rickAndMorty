@@ -1,0 +1,15 @@
+
+.letra{
+    color: rgb(90, 74, 228);
+    font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace
+}
+
+.letra1{
+    color: rgb(0, 248, 215);
+    font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace
+}
+
+.img{
+    width: 50px;
+    height: 50px
+}
